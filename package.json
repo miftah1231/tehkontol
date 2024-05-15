@@ -1,0 +1,19 @@
+{
+  "name": "tehkontol",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/miftah1231/tehkontol.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/miftah1231/tehkontol/issues"
+  },
+  "homepage": "https://github.com/miftah1231/tehkontol#readme"
+}
